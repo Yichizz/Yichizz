@@ -1,7 +1,11 @@
-## Hi there 👋
-
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Yichi Zhang 😎</h3>
 <!--
-**Yichizz/Yichizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've just finnished 
+
+[![Yichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yichizz)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yichizz)
+
 
 Here are some ideas to get you started:
 
