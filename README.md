@@ -1,7 +1,6 @@
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Yichi Zhang</h3>
 
-- 👋 Hi, I'm Yichi Zhang
 - 😎 Now PhD @Nanyang Technological University, previously MPhil @University of Cambridge
 - 👀 I’m interested in Artificial Intelligence🤖 in Medicine🧬
 - 📫 How to reach me: zyc23451@outlook.com
