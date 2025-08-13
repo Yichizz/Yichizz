@@ -1,7 +1,9 @@
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Yichi Zhang</h3>
 
-- 😎 I have just finnished my MPhil study at the university of Cambridge learning data intensive science.
+- 👋 Hi, I'm Yichi Zhang
+- 😎 Now PhD @Nanyang Technological University, previously MPhil @University of Cambridge
+- 👀 I’m interested in Artificial Intelligence🤖 in Medicine🧬
 - 📫 How to reach me: zyc23451@outlook.com
 <!--
 [![Yichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yichizz)](https://github.com/anuraghazra/github-readme-stats)
